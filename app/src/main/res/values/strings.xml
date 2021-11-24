@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EvaluasiMobile</string>
+    <string name="applikasi_movile_sederhana"> Aplikasi Movile Sederhana</string>
+    <string name="konversi_dolar">konversi Dolar</string>
+    <string name="konversi_suhu">konversi suhu</string>
+    <string name="rupiah">Rupiah</string>
+    <string name="hasil">Hasil Konversi $ </string>
+    <string name="konversi_dolar_ke_rupiah">Konversi Dolar ke Rupiah</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil_akhir">Hasil</string>
+    <string name="konversi_bersuhu">Konversi Bersuhu</string>
+    <string name="celsius">Masukkan Suhu</string>
+    <string name="cek_hasil">Cek Suhu</string>
+    <string name="hasil_celcius">Hasil Celcius</string>
+    <string name="hasil_farenheit">Hasil Farenheit</string>
+    <string name="hasil_kelvin">Hasil kelvin</string>
+    <string name="aplikasi_mobile_sederhana">Aplikasi Mobile Sederhana</string>
+</resources>
